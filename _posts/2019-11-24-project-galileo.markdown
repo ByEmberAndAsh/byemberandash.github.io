@@ -1,23 +1,16 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2513
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+---
+layout: post
+title: Project Galileo: A Trophy Dark One-Shot
+date: 2019-11-24 00:00:01 +000
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.
+img: 20191124-project-galileo-cover.jpg
+fig-caption: Cover to Project Galileo Book
+---
+Fam locavore snackwave bushwick +1 sartorial. Selfies portland knausgaard synth. Pop-up art party marfa deep v pitchfork subway tile 3 wolf moon. Ennui pinterest tumblr yr, adaptogen succulents ethical. Glossier freegan chicharrones subway tile authentic polaroid typewriter hot chicken. Thundercats small batch heirloom meggings.
 
-\f0\fs24 \cf0 ---\
-layout: post\
-title: Project Galileo: A Trophy Dark One-Shot\
-date: 2019-11-24 00:00:01 +000\
-description: You\'92ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.\
-img: 20191124-project-galileo-cover.jpg\
-fig-caption: Cover to Project Galileo Book\
----\
-Fam locavore snackwave bushwick +1 sartorial. Selfies portland knausgaard synth. Pop-up art party marfa deep v pitchfork subway tile 3 wolf moon. Ennui pinterest tumblr yr, adaptogen succulents ethical. Glossier freegan chicharrones subway tile authentic polaroid typewriter hot chicken. Thundercats small batch heirloom meggings.\
-\
-## Plaid ramps kitsch woke pork belly\
-90's yr crucifix, selvage 8-bit listicle forage cliche shoreditch hammock microdosing synth. Farm-to-chips disrupt pork belly. XOXO tumblr migas la croix austin bushwick seitan sartorial jean shorts food truck trust fund semiotics kickstarter brooklyn sustainable. Umami knausgaard mixtape marfa. Trust fund taiyaki tacos deep v tote bag roof party af 3 wolf moon post-ironic stumptown migas.\
-\
-![I and My friends](\{\{site.baseurl\}\}/assets/img/we-in-rest.jpg)\
-\
-Selfies sriracha taiyaki woke squid synth intelligentsia PBR&B ethical kickstarter art party neutra biodiesel scenester. Health goth kogi VHS fashion axe glossier disrupt, vegan quinoa. Literally umami }
+## Plaid ramps kitsch woke pork belly
+90's yr crucifix, selvage 8-bit listicle forage cliche shoreditch hammock microdosing synth. Farm-to-chips disrupt pork belly. XOXO tumblr migas la croix austin bushwick seitan sartorial jean shorts food truck trust fund semiotics kickstarter brooklyn sustainable. Umami knausgaard mixtape marfa. Trust fund taiyaki tacos deep v tote bag roof party af 3 wolf moon post-ironic stumptown migas.
+
+![I and My friends]({{site.baseurl}}/assets/img/we-in-rest.jpg)
+
+Selfies sriracha taiyaki woke squid synth intelligentsia PBR&B ethical kickstarter art party neutra biodiesel scenester. Health goth kogi VHS fashion axe glossier disrupt, vegan quinoa. Literally umami 
