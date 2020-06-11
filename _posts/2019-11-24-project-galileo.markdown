@@ -6,11 +6,8 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img: 20191124-project-galileo.png
 fig-caption: Cover to Project Galileo Book
 ---
-Fam locavore snackwave bushwick +1 sartorial. Selfies portland knausgaard synth. Pop-up art party marfa deep v pitchfork subway tile 3 wolf moon. Ennui pinterest tumblr yr, adaptogen succulents ethical. Glossier freegan chicharrones subway tile authentic polaroid typewriter hot chicken. Thundercats small batch heirloom meggings.
+2033: You’ve been pursuing your scientific exploration on Mars, 11 Earth-months into the 12 you’ll be spending in Galileo Base, after which you will board your drop-shuttle and return to Earth. Much of the operation of the structures is automated, allowing you to spend most of your time on your own research. Today, a mining drone on a routine sampling program broke through into a cavern. Originally, everyone assumed it was natural, but it quickly became apparent this was the result of construction. Finding the first evidence of another intelligent species would be the scientific achievement for the ages. You’ve decided to explore it as a group and share in the glory that will soon be coming your way.
 
-## Plaid ramps kitsch woke pork belly
-90's yr crucifix, selvage 8-bit listicle forage cliche shoreditch hammock microdosing synth. Farm-to-chips disrupt pork belly. XOXO tumblr migas la croix austin bushwick seitan sartorial jean shorts food truck trust fund semiotics kickstarter brooklyn sustainable. Umami knausgaard mixtape marfa. Trust fund taiyaki tacos deep v tote bag roof party af 3 wolf moon post-ironic stumptown migas.
+### Rooted In Trophy
 
-![I and My friends]({{site.baseurl}}/assets/img/we-in-rest.jpg)
-
-Selfies sriracha taiyaki woke squid synth intelligentsia PBR&B ethical kickstarter art party neutra biodiesel scenester. Health goth kogi VHS fashion axe glossier disrupt, vegan quinoa. Literally umami 
+Project Galileo is an incursion for the game Trophy Dark by Jesse Ross. More information a can be found at https://trophyrpg.com/. If you do not have Trophy Dark, the basic rules required for play are included.
