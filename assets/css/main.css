@@ -921,6 +921,8 @@ table tfoot td {
 .about .shop-list .header {
    font-weight: 700;
    text-transform: uppercase;
+   font-size: 12pt;
+   color: #808080;
 }
 
 .about p {
