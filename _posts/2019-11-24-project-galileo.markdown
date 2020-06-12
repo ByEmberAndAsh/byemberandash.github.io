@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project Galileo - A Trophy Dark One-Shot
+title: Project Galileo
 subtitle: A Trophy Dark One-Shot
 date: 2019-11-24 00:00:01 +000
 description: 2033. As scientists spending a year on Mars, you’re expecting to make discoveries. And you might have just made the most important discovery in human history.
