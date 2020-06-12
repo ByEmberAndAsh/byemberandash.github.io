@@ -10,6 +10,11 @@ format: PDF & Print Available
 ---
 2033: You’ve been pursuing your scientific exploration on Mars, 11 Earth-months into the 12 you’ll be spending in Galileo Base, after which you will board your drop-shuttle and return to Earth. Much of the operation of the structures is automated, allowing you to spend most of your time on your own research. Today, a mining drone on a routine sampling program broke through into a cavern. Originally, everyone assumed it was natural, but it quickly became apparent this was the result of construction. Finding the first evidence of another intelligent species would be the scientific achievement for the ages. You’ve decided to explore it as a group and share in the glory that will soon be coming your way.
 
+#### A5 size, color cover, 16 black & white interior pages
+
+[Purchase the PDF on Itch.io - $8](https://byemberandash.itch.io/project-galileo/purchase)
+[Purchase the Print & PDF bundle - $14.99](https://byemberandash.itch.io/project-galileo/purchase?reward_id=4249)
+
 ### Rooted In Trophy
 
 Project Galileo is an incursion for the game Trophy Dark by Jesse Ross. More information a can be found at https://trophyrpg.com/. If you do not have Trophy Dark, the basic rules required for play are included.
