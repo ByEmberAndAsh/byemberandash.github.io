@@ -687,7 +687,7 @@ html {
 
 body {
   font-family: 'Lato', sans-serif;
-  color: #515151;
+  color: #000000;
   background-color: #ffffff;
   margin: 0;
   -webkit-font-smoothing: antialiased;
@@ -718,7 +718,7 @@ blockquote {
   padding-left: 1.1rem;
   margin-left: 1rem;
   font-style: italic;
-  color: #ada8a8;
+  color: #808080;
 }
 
 pre {
@@ -740,15 +740,15 @@ pre code {
 }
 
 table {
-  border: 1px solid #aaa;
-  background-color: #eee;
+  border: 1px solid #cccccc;
+  background-color: #ffffff;
   width: 100%;
   text-align: left;
   border-collapse: collapse;
 }
 
 table td, table.blueTable th {
-  border: 1px solid #aaa;
+  border: 1px solid #cccccc;
   padding: 3px 2px;
 }
 
@@ -757,7 +757,7 @@ table tbody td {
 }
 
 table tr:nth-child(even) {
-  background: #adbecc;
+  background: #cccccc;
 }
 
 table thead {
@@ -888,7 +888,7 @@ table tfoot td {
   padding-bottom: 15px;
   font-size: 16px;
   text-transform: uppercase;
-  color: #333030;
+  color: #000000;
   font-weight: 700;
 }
 
@@ -915,13 +915,17 @@ table tfoot td {
   padding-bottom: 15px;
   font-size: 16px;
   text-transform: uppercase;
-  color: #333030;
+  color: #000000;
   font-weight: 700;
 }
 
 .about p {
   font-size: 16px;
   margin: 0 0 10px;
+}
+
+.about a {
+   color: #f27405;
 }
 
 .content-box {
@@ -1086,9 +1090,9 @@ footer .copyright {
 }
 
 .post .post-content .post-title a {
-  font-family: 'PT Serif', serif;
+  font-family: 'Montserrat', sans-serif;
   text-decoration: none;
-  color: #263959;
+  color: #000000;
 }
 
 .post .post-content p {
@@ -1098,7 +1102,7 @@ footer .copyright {
 a.older-posts, a.newer-posts {
   font-size: 18px;
   display: inline-block;
-  color: #515151;
+  color: #808080;
   -webkit-transition: -webkit-transform .2s;
   transition: -webkit-transform .2s;
   -o-transition: transform .2s;
