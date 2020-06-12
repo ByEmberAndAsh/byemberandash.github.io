@@ -914,9 +914,8 @@ table tfoot td {
   position: relative;
   padding-bottom: 15px;
   font-size: 16px;
-  text-transform: uppercase;
   color: #000000;
-  font-weight: 700;
+  font-weight: 400;
 }
 
 .about p {
