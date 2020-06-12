@@ -918,6 +918,11 @@ table tfoot td {
   font-weight: 400;
 }
 
+.about .shop-list .header {
+   font-weight: 700;
+   text-transform: uppercase;
+}
+
 .about p {
   font-size: 16px;
   margin: 0 0 10px;
