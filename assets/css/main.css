@@ -1104,8 +1104,8 @@ footer .copyright {
 }
 
 .post .post-content .post-title {
-  margin: 0 0 10px;
-  font-size: 30px;
+  margin: 0 0 .5rem 0;
+  font-size: 26px;
   font-weight: 400;
 }
 
@@ -1113,6 +1113,14 @@ footer .copyright {
   font-family: 'Montserrat', sans-serif;
   text-decoration: none;
   color: #000000;
+}
+
+.post .post-subtitle {
+   magin: 0 0 .5rem 0;
+   text-transform: uppercase;
+   font-family: Montserrat, sans-serif;
+   font-weight: 300;
+   color: #f27405;
 }
 
 .post .post-content p {
