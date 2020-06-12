@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Shiver - A Trophy Dark One-Shot
+title: Shiver
+subtitle: A Trophy Dark One-Shot
 date: 2019-12-26 00:00:01 +000
-description: Everyone is counting on you to trek to the Everspring. If you fail to return with enough food to survive the winter, everyone dies. A Trophy Dark One-Shot.
+description: Everyone is counting on you to trek to the Everspring. If you fail to return with enough food to survive the winter, everyone dies.
 img: 20191226-shiver.png
 fig-caption: Shiver - A Trophy Dark One-Shot
 ---
