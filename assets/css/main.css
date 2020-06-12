@@ -839,10 +839,9 @@ table tfoot td {
   -webkit-justify-content: space-between;
       -ms-flex-pack: justify;
           justify-content: space-between;
-  position: fixed;
+  position: relative;
   top: 0;
   left: 0;
-  bottom: 0;
   width: 240px;
   height: auto;
   min-height: 100%;
