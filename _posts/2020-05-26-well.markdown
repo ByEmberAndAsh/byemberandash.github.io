@@ -5,6 +5,7 @@ subtitle: A Troika! Adventure Double-Zine
 date: 2020-05-26 00:00:01 +000
 description: Explore the Down Below after being (justifiably) thrown down a well in this adventure for Troika!
 img: 20200526-well.png
+img2: 20200526-wellwide.png
 fig-caption: A Troika! Adventure Double-Zine
 format: PDF & Print Available
 ---
