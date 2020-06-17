@@ -3,7 +3,7 @@ layout: post
 title: So You've Been Thrown Down A Well
 subtitle: A Troika! Adventure Double-Zine
 date: 2020-05-26 00:00:01 +000
-description: 
+description: Explore the Down Below after being (justifiably) thrown down a well in this adventure for Troika!
 img: 20200526-well.png
 fig-caption: A Troika! Adventure Double-Zine
 format: PDF & Print Available
