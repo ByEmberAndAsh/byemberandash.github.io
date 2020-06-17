@@ -18,4 +18,4 @@ format: PDF & Print Available
 
 ### Rooted In Trophy
 
-Project Galileo is an incursion for the game Trophy Dark by Jesse Ross. More information a can be found at https://trophyrpg.com/. If you do not have Trophy Dark, the basic rules required for play are included.
+Project Galileo is an incursion for the game [Trophy Dark](https://trophyrpg.com) by Jesse Ross. If you do not have Trophy Dark, the basic rules required for play are included.
