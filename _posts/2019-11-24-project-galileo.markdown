@@ -13,8 +13,11 @@ format: PDF & Print Available
 
 #### A5 size, color cover, 16 black & white interior pages
 
+### Actual Plays
+The [Welcome to the Party](https://twitter.com/welcomepartyrpg) Side Quests group ran a game which you can watch on their [YouTube channel](https://www.youtube.com/watch?v=Q0jTWdkj_kE)!
+
+### Purchase Options
 #### [Purchase the PDF on Itch.io - $8](https://byemberandash.itch.io/project-galileo/purchase)
-#### [Purchase the Print & PDF bundle on Itch.io - $14.99](https://byemberandash.itch.io/project-galileo/purchase?reward_id=4249)
 #### [Purchase the PDF on DriveThruRPG - $8](https://www.drivethrurpg.com/product/297724/Project-Galileo--A-Trophy-Dark-Incursion)
 
 ### Rooted In Trophy
