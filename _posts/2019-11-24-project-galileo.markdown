@@ -19,6 +19,7 @@ The [Welcome to the Party](https://twitter.com/welcomepartyrpg) Side Quests grou
 ### Purchase Options
 #### [Purchase the PDF on Itch.io - $8](https://byemberandash.itch.io/project-galileo/purchase)
 #### [Purchase the PDF on DriveThruRPG - $8](https://www.drivethrurpg.com/product/297724/Project-Galileo--A-Trophy-Dark-Incursion)
+#### [Purchase the Print&PDF at Indie Press Revolution - $11.99](https://www.indiepressrevolution.com/xcart/Project-Galileo-Print-and-PDF.html)
 
 ### Rooted In Trophy
 
