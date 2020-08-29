@@ -5,7 +5,7 @@ subtitle: A microgame of amusing clowns and terrifying monsters
 date: 2020-07-23 00:00:01 +000
 description: You have been called to an ancient and noble profession - clowning! At Cluck's Clown College you will learn secret clown magic, find evil and defeat it, and grow into the very best clown you can be!
 img: 20200723-clowns.png
-img2:  20200723-clownswide.png
+img2:  20200723-clownswide.jpg
 fig-caption: What's So Cool About Clown School? A Micro-Game
 ---
 *You have been called to an ancient and noble profession - clowning! At Cluck's Clown College you will learn secret clown magic, find evil and defeat it, and grow into the very best clown you can be!*
