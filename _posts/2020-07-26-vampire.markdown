@@ -3,7 +3,7 @@ layout: post
 title: What's So Cool About Vampire Hunting?
 subtitle: A microgame of hunting vampires.
 date: 2020-07-26 00:00:01 +000
-description: 
+description: Hunt the creatures who hunt the night in this rules-light micro-game.
 img: 20200726-vampire.png
 img2:  20200726-vampirewide.png
 fig-caption: What's So Cool About Vampire Hunting. A Micro-Game.
