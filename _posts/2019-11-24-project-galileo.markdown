@@ -17,12 +17,11 @@ format: PDF & Print Available
 The [Welcome to the Party](https://twitter.com/welcomepartyrpg) Side Quests group ran a game which you can watch on their [YouTube channel](https://www.youtube.com/watch?v=Q0jTWdkj_kE)!
 
 ### Purchase Options
-#### [Purchase the PDF on Itch.io - $8](https://byemberandash.itch.io/project-galileo/purchase)
-This includes a coupon for Shop.ByEmberAndAsh.com for a discount on the Print version.
-#### [Purchase the Print from Shop.ByEmberAndAsh.com - $11.99](https://shop.byemberandash.com/product/project-galileo)
-#### [Purchase the PDF on DriveThruRPG - $8](https://www.drivethrurpg.com/product/297724/Project-Galileo--A-Trophy-Dark-Incursion)
+#### [Purchase the Print&PDF at Cold Hearth Collective](https://www.coldhearthcollective.com/product/project-galileo)
 #### [Purchase the Print&PDF at Indie Press Revolution - $11.99](https://www.indiepressrevolution.com/xcart/Project-Galileo-Print-and-PDF.html)
 #### [Purchase the Print&PDF at Melsonian Arts Council - £9](https://www.melsonia.com/project-galileo-261-p.asp)
+#### [Purchase the PDF on Itch.io - $8](https://byemberandash.itch.io/project-galileo/purchase)
+#### [Purchase the PDF on DriveThruRPG - $8](https://www.drivethrurpg.com/product/297724/Project-Galileo--A-Trophy-Dark-Incursion)
 
 ### Rooted In Trophy
 
