@@ -1345,10 +1345,13 @@ a.newer-posts:hover {
 
 div.emberportfolio {
    float: left;
-   margin: 1.5%;
+   margin: .5em;
    height: auto;
    width: 30%;
+   min-width: 200px;
+   min-height: 200px;
    max-width: 300px;
+   max-height: 300px;
    display: flex;
    justify-content: center;
    align-items: center;
