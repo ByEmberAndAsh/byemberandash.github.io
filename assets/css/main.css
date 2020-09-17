@@ -1343,7 +1343,7 @@ a.newer-posts:hover {
   }
 }
 
-.emberportfolio {
+div.emberportfolio {
    float: left;
    margin: 1em;
    height: auto;
@@ -1351,7 +1351,7 @@ a.newer-posts:hover {
    max-width: 900px;
 }
 
-.emberportfolio img {
+div.emberportfolio img {
    height: 100%;
    width: auto;
    margin: 0 auto;
