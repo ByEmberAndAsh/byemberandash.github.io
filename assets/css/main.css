@@ -1342,3 +1342,11 @@ a.newer-posts:hover {
     font-size: 21px;
   }
 }
+
+.emberportfolio {
+   float: left;
+   margin: 1em;
+   height: auto;
+   width: auto;
+   max-width: 900px;
+}
