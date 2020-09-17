@@ -1347,6 +1347,13 @@ a.newer-posts:hover {
    float: left;
    margin: 1em;
    height: auto;
-   width: auto;
+   width: 90%;
    max-width: 900px;
 }
+
+.emberportfolio img {
+   height: 100%;
+   width: auto;
+   margin: 0 auto;
+}
+
