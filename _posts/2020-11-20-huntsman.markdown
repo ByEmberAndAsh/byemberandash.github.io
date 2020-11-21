@@ -1,12 +1,12 @@
 ---
 layout: post
-title: The Huntsman's Feast
+title: The Huntsman\'s Feast
 subtitle: A Trophy Dark One-Shot
 date: 2020-11-20 00:00:01 +000
 description: You're chasing the bounty on Balan Doen and he has fled into the abandoned gothic hunting lodge of Marquess Niral. Do you follow him in and claim your bounty?
 img: 20201120-TheHuntsmansFeast.png
-img2: 20191124-project-galileowide.jpg
-fig-caption: The Huntsman's Feast - A Trophy Dark One-Shot
+img2: 20201120-TheHuntsmansFeastWide.jpg
+fig-caption: The Huntsman\'s Feast - A Trophy Dark One-Shot
 format: PDF & Print Available
 ---
 ### The award-winning Trophy Dark incursion!
