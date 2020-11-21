@@ -1,12 +1,12 @@
 ---
 layout: post
-title: The Huntsman\'s Feast
+title: The Huntsman's Feast
 subtitle: A Trophy Dark One-Shot
 date: 2020-11-20 00:00:01 +000
 description: You're chasing the bounty on Balan Doen and he has fled into the abandoned gothic hunting lodge of Marquess Niral. Do you follow him in and claim your bounty?
 img: 20201120-TheHuntsmansFeast.png
 img2: 20201120-TheHuntsmansFeastWide.jpg
-fig-caption: The Huntsman\'s Feast - A Trophy Dark One-Shot
+fig-caption: The Huntsman's Feast - A Trophy Dark One-Shot
 format: PDF & Print Available
 ---
 ### The award-winning Trophy Dark incursion!
@@ -23,7 +23,7 @@ This incursion contains potentially triggering content related to hunting, taxid
 #### [Purchase the Print&PDF at Cold Hearth Collective](https://www.coldhearthcollective.com/product/project-galileo)
 #### [Purchase the Print&PDF at Indie Press Revolution](https://www.indiepressrevolution.com/xcart/Project-Galileo-Print-and-PDF.html)
 #### [Purchase the Print&PDF at Melsonian Arts Council](https://www.melsonia.com/project-galileo-261-p.asp)
-#### [Purchase the PDF on Itch.io](https://byemberandash.itch.io/project-galileo/purchase)
+#### [Purchase the PDF on Itch.io](https://byemberandash.itch.io/the-huntsmans-feast)
 #### [Purchase the PDF on DriveThruRPG](https://www.drivethrurpg.com/product/297724/Project-Galileo--A-Trophy-Dark-Incursion)
 -->
 ### Rooted In Trophy
