@@ -6,7 +6,7 @@ date: 2021-02-01 00:00:01 +000
 description: Record your experiences diving to deepest depths of the ocean... and your sanity.
 img: The Crushing Dark by Madeleine Ember website cover.jpg
 img2:  The Crushing Dark by Madeleine Ember wide cover.jpg
-fig-caption: The Crushing Dark: A Wretched & Alone Game
+fig-caption: The Crushing Dark - A Wretched & Alone Game
 ---
 # How Deep Will You Go
 **The Crushing Dark** is a solo journaling game exploring the depths of scientific discovery and your sanity. As you take your (likely) one-way trip to the deepest parts of the ocean, you’ll record your observations and experiences as you encounter unknown sights, strange creatures, and realizate what waits for you above.
