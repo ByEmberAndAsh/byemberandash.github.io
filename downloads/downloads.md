@@ -9,7 +9,7 @@ layout: main
 ---
 
 # Shiver
-[Game Page]((https://www.byemberandash.com/shiver/))
+[Game Page](https://www.byemberandash.com/shiver/)
 ### Character Sheets
 * [US Letter](https://www.byemberandash.com/downloads/Shiver-CharacterSheet-Letter.pdf)
 * [A4](https://www.byemberandash.com/downloads/Shiver-CharacterSheet-A4.pdf)
