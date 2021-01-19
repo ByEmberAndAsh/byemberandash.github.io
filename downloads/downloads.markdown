@@ -1,7 +1,6 @@
 ---
 layout: main
 ---
-
 # Project Galileo
 [Game Page](https://www.byemberandash.com/project-galileo/)
 **Character Sheets**
