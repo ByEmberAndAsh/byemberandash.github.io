@@ -4,8 +4,8 @@ title: The Crushing Dark
 subtitle: A Wretched & Alone Game
 date: 2021-02-01 00:00:01 +000
 description: Record your experiences diving to deepest depths of the ocean... and your sanity.
-img: The Crushing Dark by Madeleine Ember website cover.jpg
-img2:  The Crushing Dark by Madeleine Ember wide cover.jpg
+img: The Crushing Dark by Madeleine Ember (website cover).jpg
+img2:  The Crushing Dark by Madeleine Ember(wide cover).jpg
 fig-caption: The Crushing Dark - A Wretched & Alone Game
 ---
 # How Deep Will You Go
