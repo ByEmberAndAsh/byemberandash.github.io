@@ -17,8 +17,8 @@ format: PDF & Print Available
 The [Welcome to the Party](https://twitter.com/welcomepartyrpg) Side Quests group ran a game which you can watch on their [YouTube channel](https://www.youtube.com/watch?v=Q0jTWdkj_kE)!
 
 ### Purchase Options
-#### [Purchase the PDF on Itch.io](https://byemberandash.itch.io/project-galileo/purchase)
-#### [Purchase the PDF on DriveThruRPG](https://www.drivethrurpg.com/product/297724/Project-Galileo--A-Trophy-Dark-Incursion)
+#### [Purchase the PDF on Itch.io](https://byemberandash.itch.io/project-galileo/purchase?ac=TcJ8Df4sVvG)
+#### [Purchase the PDF on DriveThruRPG](https://www.drivethrurpg.com/product/297724/Project-Galileo--A-Trophy-Dark-Incursion?affiliate_id=1017046)
 
 ### Rooted In Trophy
 
