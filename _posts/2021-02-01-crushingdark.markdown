@@ -14,5 +14,5 @@ How dedicated do you remain to your quest for discovery? Play to find out.
 **The Crushing Dark** is a **Wretched & Alone** game based on *The Wretched* by Chris Bissette. It is intended for one player and requires a standard deck of playing cards and a collection of stones.
 
 ### Purchase Options
-#### [Purchase the PDF on Itch.io](https://byemberandash.itch.io/the-crushing-dark)
-#### [Purchase the PDF on DriveThruRPG](https://www.drivethrurpg.com/product/343819/The-Crushing-Dark)
+#### [Purchase the PDF on Itch.io](https://byemberandash.itch.io/the-crushing-dark?ac=TcJ8Df4sVvG)
+#### [Purchase the PDF on DriveThruRPG](https://www.drivethrurpg.com/product/343819/The-Crushing-Dark?affiliate_id=1017046)
