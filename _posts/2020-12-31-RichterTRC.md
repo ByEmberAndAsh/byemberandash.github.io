@@ -25,5 +25,5 @@ The Rot also twists the plants and animals of Richter, spawning horrid beasts th
 #### 7x10 inches, color cover, 64 black & white interior pages
 
 ### Purchase Options
-#### [Purchase the PDF on Itch.io](https://byemberandash.itch.io/richter-the-rotting-city)
-#### [Purchase the PDF on DriveThruRPG](https://www.drivethrurpg.com/product/341884/Richter-The-Rotting-City)
+#### [Purchase the PDF on Itch.io](https://byemberandash.itch.io/richter-the-rotting-city?ac=TcJ8Df4sVvG)
+#### [Purchase the PDF on DriveThruRPG](https://www.drivethrurpg.com/product/341884/Richter-The-Rotting-City?affiliate_id=1017046)
