@@ -61,4 +61,3 @@ This work is based on Aftermath © 2024 [Natalie Ash (www.byemberandash.com)](ww
 
 ### Purchase Options
 #### [Purchase the PDF on Itch.io](https://byemberandash.itch.io/aftermath?ac=TcJ8Df4sVvG)
-//#### [Purchase the PDF on DriveThruRPG]()
