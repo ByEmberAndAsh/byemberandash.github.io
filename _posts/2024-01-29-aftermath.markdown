@@ -3,7 +3,7 @@ layout: post
 title: Aftermath
 subtitle: A Sci-Fi Adventure RPG
 date: 2024-01-29 00:00:01 +000
-description: Record your experiences diving to deepest depths of the ocean... and your sanity.
+description: In the wake of war, your team still has problems to face.
 img: 20240129-Aftermath-website.png
 img2: 20240129-Aftermath-websitewide.png
 fig-caption: Aftermath — A Sci-Fi Adventure RPG
