@@ -8,10 +8,10 @@ img: 20230209-tidesweb.png
 img2: 20230209-tideswide.png
 fig-caption: Tides of a Dead Sea - An Incursion for Trophy Gold
 ---
-##Explore a Strange New Region
+## Explore a Strange New Region
 After surviving a terrible winter, explorers from your village found that a previously closed mountain pass was now open. On their return, word quickly spread of the incredible and strange wonders they witnessed. Now, a stream of explorers, natural philosophers, and plunderers are gearing up to cross that same pass and explore ančwuntouched world.
 The rumormongers missed several important pieces of information: only one member of the expedition returned; they were feverish and spoke incoherently about strange monsters; they quickly died, their body bruised and red, covered with welts and bites. As your expedition sets forth, will you suffer the same fate?
-###Designed for Trophy Gold
+### Designed for Trophy Gold
 ***Tides of a Dead Sea*** is an incursion for *Trophy Gold* where your ragtag band of treasure hunters explore a previously untouched wilderness in search of treasure and acclaim. Learn about Trophy Gold at [TrophyRPG.com](TrophyRPG.com).
 *Trophy*™ is a trademark of Hedgemaze Press. The trademark and “Designed for Trophy” Logo are © Hedgemaze Press, and are used with permission.
 ### Purchase Options
