@@ -19,11 +19,13 @@ As members of the Rapid Response Team, you can face a wide variety of tasks. You
 - Locate (1) a document (4) in a mine (8)
 - Survive (9) a vehicle (6) in a Pale Order prison (6)
 - Repair (10) an AI (1) in a manufactory (7)
+
 ### Features
 - 6 character classes.
 - Random tables to help you build as you go.
 - A future world for you to make your own.
 - An introductory adventure to get you started!
+
 ### This Game Has Politics
 We don't believe it is possible to write a game free from political perspective or bias, but it is definitely impossible to write a game about war that excludes politics.
 This future unashamedly embraces a leftist ideology. The Concillium believes in things like universal health care, universal education, diverse species, races, genders, and sexualities. While individuals might embrace religious ideals, those ideals are personal, and kept distinct from government mandate. Citizens work toward living their own best lives and making the world better for each other, and for the future.
@@ -41,6 +43,7 @@ If you want to see a bigger and better version of ***Aftermath***, here is what 
 - Talk about the game in your favorite online spaces.
 - Write reviews on blogs, or record one for YouTube.
 - Do a stream or live-play of it.
+
 Basically, if you do the things that let us see that you’re excited and interested, that can let us know this is a project you would like us to revisit. But there are no promises or timelines.
 Regardless, we hope you enjoy this story of making the world a little bit better.
 ### Burned In Stones
@@ -55,6 +58,7 @@ This work is based on Aftermath © 2024 [Natalie Ash (www.byemberandash.com)](ww
 - Format: 44 pages black and white PDF (6.14" x 9.21")
 - Number of players: 1-5
 - Publisher: Ember & Ash
+
 ### Purchase Options
 #### [Purchase the PDF on Itch.io](https://byemberandash.itch.io/aftermath)
 //#### [Purchase the PDF on DriveThruRPG]()
